@@ -1,0 +1,28 @@
+name: kijabewind
+favicon: null
+layout_spectrum: 0.9987057636026293
+typography_spectrum: 0.7041608025319874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.05128287198022008
+  lightness: 0.5833804935682565
+  saturation: 0.24774671136401594
+  rhythmicContrast: 0.9433390300255269
+purpose: []
